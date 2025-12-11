@@ -24,10 +24,10 @@ const ProfileAnalysisTab = () => {
       ],
       associations: [
         { id: "DT-2024-002", name: "Trần Văn B", relation: "Bạn cùng phòng trọ", risk: "cao" },
-        { id: "DT-2024-003", name: "Lê Thị C", relation: "Bạn gái cũ", risk: "trung bình" },
+        { id: "DT-2024-003", name: "Lê Thị C", relation: "Bạn gái cũ", risk: "trung-binh" },
         { id: "DT-2024-004", name: "Phạm Văn D", relation: "Đồng nghiệp", risk: "thấp" },
         { id: "VỤ-2024-015", name: "Vụ trộm xe máy 15/03", relation: "Nghi phạm", risk: "cao" },
-        { id: "VỤ-2024-023", name: "Vụ đột nhập 22/03", relation: "Có mặt gần hiện trường", risk: "trung bình" },
+        { id: "VỤ-2024-023", name: "Vụ đột nhập 22/03", relation: "Có mặt gần hiện trường", risk: "trung-binh" },
       ],
       timeline: [
         { date: "05/11/2024 02:30", event: "Xuất hiện gần hiện trường vụ án", location: "Chung cư Cầu Giấy", type: "di chuyển" },

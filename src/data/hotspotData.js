@@ -76,7 +76,7 @@ export const hotspotLocations = [
     lat: 21.0167,
     lng: 105.8140,
 
-    risk: "trung bình",
+    risk: "trung-binh",
     probability: 64,
     crimeTypes: ["Đột nhập văn phòng", "Trộm cắp tài sản công ty"],
     timePattern: "01:00 - 05:00",
@@ -105,7 +105,7 @@ export const hotspotLocations = [
     lat: 21.0293,
     lng: 105.8191,
 
-    risk: "trung bình",
+    risk: "trung-binh",
     probability: 58,
     crimeTypes: ["Trộm cắp xe hơi", "Đập kính ô tô lấy tài sản"],
     timePattern: "02:00 - 05:00",
@@ -162,7 +162,7 @@ export const hotspotLocations = [
     lat: 21.0583,
     lng: 105.8236,
 
-    risk: "trung bình",
+    risk: "trung-binh",
     probability: 55,
     crimeTypes: ["Móc túi du khách", "Chèo kéo, lừa đảo"],
     timePattern: "18:00 - 23:00",
