@@ -1,0 +1,4505 @@
+{
+  "total": 500,
+  "crimes": [
+    {
+      "id": "CR-10224738",
+      "type": "BATTERY",
+      "lat": 41.815117282,
+      "lng": -87.669999562,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10224739",
+      "type": "THEFT",
+      "lat": 41.895080471,
+      "lng": -87.765400451,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10224740",
+      "type": "NARCOTICS",
+      "lat": 41.937405765,
+      "lng": -87.716649687,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 14
+    },
+    {
+      "id": "CR-10224741",
+      "type": "ASSAULT",
+      "lat": 41.881903443,
+      "lng": -87.755121152,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10224742",
+      "type": "BURGLARY",
+      "lat": 41.744378879,
+      "lng": -87.658430635,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224743",
+      "type": "BURGLARY",
+      "lat": 41.914635603,
+      "lng": -87.681630909,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10224744",
+      "type": "THEFT",
+      "lat": 41.851988885,
+      "lng": -87.689219118,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10224745",
+      "type": "ROBBERY",
+      "lat": 41.88281374,
+      "lng": -87.704325717,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10224746",
+      "type": "THEFT",
+      "lat": 41.763647552,
+      "lng": -87.722344693,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10224749",
+      "type": "BATTERY",
+      "lat": 41.975968415,
+      "lng": -87.768014257,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10224750",
+      "type": "OTHER OFFENSE",
+      "lat": 41.707154919,
+      "lng": -87.624244993,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10224751",
+      "type": "BATTERY",
+      "lat": 41.809678314,
+      "lng": -87.593638934,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10224752",
+      "type": "THEFT",
+      "lat": 41.907127255,
+      "lng": -87.678232016,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10224753",
+      "type": "BATTERY",
+      "lat": 41.748097343,
+      "lng": -87.662166183,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224754",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.893869916,
+      "lng": -87.754341096,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10224756",
+      "type": "BURGLARY",
+      "lat": 41.707490122,
+      "lng": -87.559650325,
+      "date": "2015-07-08",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224757",
+      "type": "BURGLARY",
+      "lat": 41.733173536,
+      "lng": -87.665421067,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 22
+    },
+    {
+      "id": "CR-10224758",
+      "type": "BATTERY",
+      "lat": 41.949429769,
+      "lng": -87.775435529,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10224759",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.713031786,
+      "lng": -87.536487809,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224761",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.972552295,
+      "lng": -87.751076926,
+      "date": "2015-09-02",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10224762",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.713031786,
+      "lng": -87.536487809,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224763",
+      "type": "ROBBERY",
+      "lat": 41.766247597,
+      "lng": -87.575997062,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10224764",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.713127829,
+      "lng": -87.536486623,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224765",
+      "type": "ASSAULT",
+      "lat": 41.756330319,
+      "lng": -87.552716204,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224766",
+      "type": "BATTERY",
+      "lat": 41.758420222,
+      "lng": -87.565152335,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224767",
+      "type": "ROBBERY",
+      "lat": 41.75135862,
+      "lng": -87.560164545,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224768",
+      "type": "THEFT",
+      "lat": 41.752596188,
+      "lng": -87.554055126,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224769",
+      "type": "THEFT",
+      "lat": 41.875367424,
+      "lng": -87.627620993,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224770",
+      "type": "BATTERY",
+      "lat": 41.782597483,
+      "lng": -87.638879769,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10224772",
+      "type": "THEFT",
+      "lat": 41.901851233,
+      "lng": -87.667456951,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10224773",
+      "type": "BURGLARY",
+      "lat": 41.880252868,
+      "lng": -87.69924661,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224775",
+      "type": "OTHER OFFENSE",
+      "lat": 41.769386857,
+      "lng": -87.740336842,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10224776",
+      "type": "THEFT",
+      "lat": 41.763647552,
+      "lng": -87.722344693,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10224778",
+      "type": "ASSAULT",
+      "lat": 41.967448012,
+      "lng": -87.732951137,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 17
+    },
+    {
+      "id": "CR-10224779",
+      "type": "OTHER OFFENSE",
+      "lat": 41.756290353,
+      "lng": -87.565108099,
+      "date": "2015-09-02",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224780",
+      "type": "OTHER OFFENSE",
+      "lat": 41.858197949,
+      "lng": -87.723692079,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10224781",
+      "type": "ROBBERY",
+      "lat": 41.984956576,
+      "lng": -87.69589518,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 20
+    },
+    {
+      "id": "CR-10224782",
+      "type": "NARCOTICS",
+      "lat": 41.770447177,
+      "lng": -87.628299291,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10224783",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.903532921,
+      "lng": -87.729402988,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10224784",
+      "type": "THEFT",
+      "lat": 41.772613371,
+      "lng": -87.636098706,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10224786",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.781182029,
+      "lng": -87.632651097,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10224787",
+      "type": "BATTERY",
+      "lat": 41.78462669,
+      "lng": -87.650983434,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10224788",
+      "type": "OTHER OFFENSE",
+      "lat": 41.830611847,
+      "lng": -87.623247369,
+      "date": "2014-03-27",
+      "arrest": true,
+      "district": 2
+    },
+    {
+      "id": "CR-10224789",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.877553391,
+      "lng": -87.756129762,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10224790",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.890853973,
+      "lng": -87.628644182,
+      "date": "2015-09-01",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10224791",
+      "type": "BATTERY",
+      "lat": 41.777198018,
+      "lng": -87.645940487,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10224792",
+      "type": "NARCOTICS",
+      "lat": 41.87281932,
+      "lng": -87.701849872,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10224794",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.759592098,
+      "lng": -87.623173211,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10224795",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.871074992,
+      "lng": -87.694589977,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224797",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.965352898,
+      "lng": -87.66046802,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10224800",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.950307614,
+      "lng": -87.649064886,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10224801",
+      "type": "BATTERY",
+      "lat": 41.730240434,
+      "lng": -87.606288953,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224802",
+      "type": "OTHER OFFENSE",
+      "lat": 41.974722701,
+      "lng": -87.724575286,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 17
+    },
+    {
+      "id": "CR-10224803",
+      "type": "THEFT",
+      "lat": 41.90444226,
+      "lng": -87.63293969,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10224805",
+      "type": "THEFT",
+      "lat": 41.876607964,
+      "lng": -87.627644063,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224806",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.900040745,
+      "lng": -87.721343753,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224807",
+      "type": "THEFT",
+      "lat": 41.873861861,
+      "lng": -87.68895549,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224809",
+      "type": "NARCOTICS",
+      "lat": 41.671989656,
+      "lng": -87.633298499,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 5
+    },
+    {
+      "id": "CR-10224810",
+      "type": "BATTERY",
+      "lat": 41.686675992,
+      "lng": -87.608291666,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 5
+    },
+    {
+      "id": "CR-10224811",
+      "type": "BURGLARY",
+      "lat": 41.694443727,
+      "lng": -87.619013197,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10224812",
+      "type": "THEFT",
+      "lat": 41.742177899,
+      "lng": -87.560010869,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224813",
+      "type": "THEFT",
+      "lat": 41.863235129,
+      "lng": -87.624061274,
+      "date": "2015-08-30",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224814",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.985148529,
+      "lng": -87.711378169,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 17
+    },
+    {
+      "id": "CR-10224815",
+      "type": "BATTERY",
+      "lat": 41.686218054,
+      "lng": -87.623739069,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10224816",
+      "type": "THEFT",
+      "lat": 41.832071291,
+      "lng": -87.616978684,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10224819",
+      "type": "THEFT",
+      "lat": 41.751613643,
+      "lng": -87.575373855,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224820",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.900040745,
+      "lng": -87.721343753,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224821",
+      "type": "THEFT",
+      "lat": 41.685021672,
+      "lng": -87.618008151,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10224822",
+      "type": "NARCOTICS",
+      "lat": 41.790159304,
+      "lng": -87.648698923,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10224823",
+      "type": "THEFT",
+      "lat": 41.90706989,
+      "lng": -87.648182264,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 18
+    },
+    {
+      "id": "CR-10224825",
+      "type": "THEFT",
+      "lat": 41.700055116,
+      "lng": -87.702338239,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 22
+    },
+    {
+      "id": "CR-10224826",
+      "type": "BURGLARY",
+      "lat": 41.969801264,
+      "lng": -87.751896265,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10224829",
+      "type": "OTHER OFFENSE",
+      "lat": 41.921764773,
+      "lng": -87.782158383,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10224830",
+      "type": "OTHER OFFENSE",
+      "lat": 41.701087782,
+      "lng": -87.617255204,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10224831",
+      "type": "BATTERY",
+      "lat": 41.884932988,
+      "lng": -87.664621314,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10224832",
+      "type": "THEFT",
+      "lat": 41.803227125,
+      "lng": -87.658359911,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10224834",
+      "type": "THEFT",
+      "lat": 41.800729285,
+      "lng": -87.667199258,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10224835",
+      "type": "NARCOTICS",
+      "lat": 41.870761846,
+      "lng": -87.696017659,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10224836",
+      "type": "THEFT",
+      "lat": 41.89297114,
+      "lng": -87.662315415,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10224837",
+      "type": "THEFT",
+      "lat": 42.000327844,
+      "lng": -87.693615326,
+      "date": "2015-08-25",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10224840",
+      "type": "NARCOTICS",
+      "lat": 41.882100231,
+      "lng": -87.685079332,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 12
+    },
+    {
+      "id": "CR-10224841",
+      "type": "THEFT",
+      "lat": 41.851988885,
+      "lng": -87.689219118,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10224843",
+      "type": "BATTERY",
+      "lat": 41.709430861,
+      "lng": -87.66232682,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 22
+    },
+    {
+      "id": "CR-10224845",
+      "type": "THEFT",
+      "lat": 41.903125898,
+      "lng": -87.632182661,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10224846",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.860061733,
+      "lng": -87.723773492,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10224847",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.930970495,
+      "lng": -87.702493061,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-12014684",
+      "type": "THEFT",
+      "lat": 41.952051946,
+      "lng": -87.754660372,
+      "date": "2020-03-17",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10224848",
+      "type": "OTHER OFFENSE",
+      "lat": 41.775015003,
+      "lng": -87.777580203,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10224849",
+      "type": "BURGLARY",
+      "lat": 41.926115609,
+      "lng": -87.664606657,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10224850",
+      "type": "THEFT",
+      "lat": 41.861161041,
+      "lng": -87.627270627,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224851",
+      "type": "THEFT",
+      "lat": 41.946779572,
+      "lng": -87.65617875,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10224852",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.943552694,
+      "lng": -87.688162342,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10224853",
+      "type": "SEX OFFENSE",
+      "lat": 41.871883543,
+      "lng": -87.729403606,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10224854",
+      "type": "NARCOTICS",
+      "lat": 41.747965107,
+      "lng": -87.6597343,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 6
+    },
+    {
+      "id": "CR-10224855",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.898992594,
+      "lng": -87.677139749,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10224857",
+      "type": "BATTERY",
+      "lat": 41.91894033,
+      "lng": -87.766805639,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10224858",
+      "type": "BATTERY",
+      "lat": 41.754256108,
+      "lng": -87.569940704,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10224860",
+      "type": "THEFT",
+      "lat": 41.910284848,
+      "lng": -87.766771965,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10224861",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.754949629,
+      "lng": -87.55997485,
+      "date": "2015-09-02",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224862",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.895647706,
+      "lng": -87.758067814,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10224863",
+      "type": "BATTERY",
+      "lat": 41.771447416,
+      "lng": -87.685868399,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 8
+    },
+    {
+      "id": "CR-10224864",
+      "type": "ASSAULT",
+      "lat": 41.75283774,
+      "lng": -87.620854539,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224865",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.755910033,
+      "lng": -87.605321288,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224867",
+      "type": "NARCOTICS",
+      "lat": 41.879241446,
+      "lng": -87.69747934,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10224868",
+      "type": "BATTERY",
+      "lat": 41.758365901,
+      "lng": -87.617505767,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224869",
+      "type": "BATTERY",
+      "lat": 41.726269511,
+      "lng": -87.604571673,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224870",
+      "type": "THEFT",
+      "lat": 41.748511998,
+      "lng": -87.607585302,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224872",
+      "type": "THEFT",
+      "lat": 41.721180629,
+      "lng": -87.623717187,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10224873",
+      "type": "THEFT",
+      "lat": 41.937925583,
+      "lng": -87.664880228,
+      "date": "2015-08-17",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10224874",
+      "type": "BATTERY",
+      "lat": 41.700149617,
+      "lng": -87.67659095,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 22
+    },
+    {
+      "id": "CR-10224875",
+      "type": "THEFT",
+      "lat": 41.863235129,
+      "lng": -87.624061274,
+      "date": "2015-08-30",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224876",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.919567169,
+      "lng": -87.691898319,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10224877",
+      "type": "THEFT",
+      "lat": 41.865397377,
+      "lng": -87.640660777,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224878",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.871520566,
+      "lng": -87.625930316,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224879",
+      "type": "INTERFERENCE WITH PUBLIC OFFICER",
+      "lat": 41.881830765,
+      "lng": -87.709762859,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224880",
+      "type": "BATTERY",
+      "lat": 41.889741913,
+      "lng": -87.765198001,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10224881",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.81399924,
+      "lng": -87.598137918,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10224882",
+      "type": "THEFT",
+      "lat": 41.885260516,
+      "lng": -87.633916764,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224883",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.824538512,
+      "lng": -87.671450605,
+      "date": "2015-08-30",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10224886",
+      "type": "THEFT",
+      "lat": 41.978991238,
+      "lng": -87.659941972,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 20
+    },
+    {
+      "id": "CR-10224888",
+      "type": "THEFT",
+      "lat": 41.741239038,
+      "lng": -87.634049179,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224889",
+      "type": "THEFT",
+      "lat": 41.909664252,
+      "lng": -87.742728815,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10224890",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.900040745,
+      "lng": -87.721343753,
+      "date": "2015-08-31",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224891",
+      "type": "BATTERY",
+      "lat": 41.91894033,
+      "lng": -87.766805639,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10224893",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 42.018472824,
+      "lng": -87.677642429,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10224895",
+      "type": "BATTERY",
+      "lat": 41.874057815,
+      "lng": -87.745964761,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10224899",
+      "type": "THEFT",
+      "lat": 41.721180629,
+      "lng": -87.623717187,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10224900",
+      "type": "THEFT",
+      "lat": 41.879079395,
+      "lng": -87.624341423,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224901",
+      "type": "BURGLARY",
+      "lat": 41.995263745,
+      "lng": -87.782871067,
+      "date": "2015-09-04",
+      "arrest": true,
+      "district": 16
+    },
+    {
+      "id": "CR-10224902",
+      "type": "THEFT",
+      "lat": 41.894734755,
+      "lng": -87.69537536,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10224903",
+      "type": "OFFENSE INVOLVING CHILDREN",
+      "lat": 41.899095398,
+      "lng": -87.718013856,
+      "date": "2015-09-01",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224904",
+      "type": "BATTERY",
+      "lat": 41.785665665,
+      "lng": -87.672862591,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10224905",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.742335144,
+      "lng": -87.657162229,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10224906",
+      "type": "THEFT",
+      "lat": 41.73625535,
+      "lng": -87.62820806,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 6
+    },
+    {
+      "id": "CR-10224907",
+      "type": "NARCOTICS",
+      "lat": 41.904417002,
+      "lng": -87.730008129,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10224908",
+      "type": "THEFT",
+      "lat": 41.761608936,
+      "lng": -87.570069811,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10224909",
+      "type": "THEFT",
+      "lat": 41.810003402,
+      "lng": -87.616344268,
+      "date": "2015-09-01",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10224910",
+      "type": "THEFT",
+      "lat": 41.94969873,
+      "lng": -87.752748033,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10224911",
+      "type": "NARCOTICS",
+      "lat": 41.878148628,
+      "lng": -87.75498609,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10224912",
+      "type": "OTHER OFFENSE",
+      "lat": 41.754592961,
+      "lng": -87.741528537,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10224913",
+      "type": "THEFT",
+      "lat": 41.796954599,
+      "lng": -87.592593383,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10224914",
+      "type": "OTHER OFFENSE",
+      "lat": 41.968434832,
+      "lng": -87.710088296,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 17
+    },
+    {
+      "id": "CR-10224915",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.902969343,
+      "lng": -87.774179787,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10224916",
+      "type": "THEFT",
+      "lat": 41.840745159,
+      "lng": -87.645132346,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10224917",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.895372185,
+      "lng": -87.725362479,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224918",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.952722658,
+      "lng": -87.683570132,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10224919",
+      "type": "BATTERY",
+      "lat": 41.866105993,
+      "lng": -87.729755359,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224922",
+      "type": "THEFT",
+      "lat": 41.773256969,
+      "lng": -87.718532522,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10224923",
+      "type": "BATTERY",
+      "lat": 41.861624227,
+      "lng": -87.721383491,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10224924",
+      "type": "THEFT",
+      "lat": 41.844459201,
+      "lng": -87.709204691,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10224925",
+      "type": "OFFENSE INVOLVING CHILDREN",
+      "lat": 41.656610975,
+      "lng": -87.605130623,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10224926",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.793424442,
+      "lng": -87.583554214,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10224927",
+      "type": "BATTERY",
+      "lat": 41.790626555,
+      "lng": -87.586700079,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10224928",
+      "type": "BATTERY",
+      "lat": 41.816039143,
+      "lng": -87.626258734,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10025508",
+      "type": "THEFT",
+      "lat": 41.878367594,
+      "lng": -87.763102904,
+      "date": "2015-04-08",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10224929",
+      "type": "BATTERY",
+      "lat": 41.822729449,
+      "lng": -87.608174963,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10224930",
+      "type": "ASSAULT",
+      "lat": 41.877363835,
+      "lng": -87.701856542,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10224931",
+      "type": "NARCOTICS",
+      "lat": 41.870932257,
+      "lng": -87.744921277,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10224932",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.898390182,
+      "lng": -87.655632346,
+      "date": "2015-08-24",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10224933",
+      "type": "THEFT",
+      "lat": 41.732909886,
+      "lng": -87.546998736,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224934",
+      "type": "BATTERY",
+      "lat": 41.902685579,
+      "lng": -87.667473996,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10224936",
+      "type": "THEFT",
+      "lat": 41.860911204,
+      "lng": -87.695744714,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10224937",
+      "type": "OTHER OFFENSE",
+      "lat": 41.855757398,
+      "lng": -87.682034455,
+      "date": "2015-07-07",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10224938",
+      "type": "BATTERY",
+      "lat": 41.852764648,
+      "lng": -87.708940428,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10224939",
+      "type": "ROBBERY",
+      "lat": 41.854752959,
+      "lng": -87.711233594,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10224940",
+      "type": "NARCOTICS",
+      "lat": 41.909426828,
+      "lng": -87.693300362,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 14
+    },
+    {
+      "id": "CR-10224941",
+      "type": "ASSAULT",
+      "lat": 41.75416291,
+      "lng": -87.550382277,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224942",
+      "type": "THEFT",
+      "lat": 41.751851824,
+      "lng": -87.557201164,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10224943",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.771819552,
+      "lng": -87.693511744,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10224944",
+      "type": "PUBLIC PEACE VIOLATION",
+      "lat": 41.809611253,
+      "lng": -87.690579179,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 9
+    },
+    {
+      "id": "CR-10224945",
+      "type": "PUBLIC PEACE VIOLATION",
+      "lat": 41.796918756,
+      "lng": -87.662232804,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 9
+    },
+    {
+      "id": "CR-10224946",
+      "type": "THEFT",
+      "lat": 41.735084271,
+      "lng": -87.552764692,
+      "date": "2015-08-18",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10224948",
+      "type": "BURGLARY",
+      "lat": 41.800626881,
+      "lng": -87.670845863,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10224950",
+      "type": "ASSAULT",
+      "lat": 42.007896244,
+      "lng": -87.666598695,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 24
+    },
+    {
+      "id": "CR-10224951",
+      "type": "NARCOTICS",
+      "lat": 41.734666499,
+      "lng": -87.576877451,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10224952",
+      "type": "ROBBERY",
+      "lat": 41.692546378,
+      "lng": -87.626393601,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 5
+    },
+    {
+      "id": "CR-10224953",
+      "type": "THEFT",
+      "lat": 41.908852023,
+      "lng": -87.697023929,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10224954",
+      "type": "OTHER OFFENSE",
+      "lat": 41.896765982,
+      "lng": -87.753973344,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-11864018",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.852248185,
+      "lng": -87.623786256,
+      "date": "2019-09-24",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224956",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.851727501,
+      "lng": -87.708469683,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10224957",
+      "type": "ASSAULT",
+      "lat": 41.78964533,
+      "lng": -87.655972231,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10224959",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.863196881,
+      "lng": -87.614817819,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 1
+    },
+    {
+      "id": "CR-10224961",
+      "type": "NARCOTICS",
+      "lat": 41.729878114,
+      "lng": -87.651951467,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 22
+    },
+    {
+      "id": "CR-10224963",
+      "type": "OTHER OFFENSE",
+      "lat": 41.767409273,
+      "lng": -87.582816167,
+      "date": "2015-08-25",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10224964",
+      "type": "THEFT",
+      "lat": 41.870242152,
+      "lng": -87.686994534,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10224965",
+      "type": "OTHER OFFENSE",
+      "lat": 41.71068216,
+      "lng": -87.599455553,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10224966",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.741925176,
+      "lng": -87.563652449,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10224968",
+      "type": "BATTERY",
+      "lat": 41.797307609,
+      "lng": -87.644016645,
+      "date": "2015-09-02",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10224969",
+      "type": "THEFT",
+      "lat": 41.863642218,
+      "lng": -87.627331436,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10224970",
+      "type": "THEFT",
+      "lat": 41.884932988,
+      "lng": -87.664621314,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 12
+    },
+    {
+      "id": "CR-10224971",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.884633377,
+      "lng": -87.666897623,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 12
+    },
+    {
+      "id": "CR-10224972",
+      "type": "BATTERY",
+      "lat": 41.96137851,
+      "lng": -87.65474101,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10224973",
+      "type": "BATTERY",
+      "lat": 42.01980733,
+      "lng": -87.668248096,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10224974",
+      "type": "NARCOTICS",
+      "lat": 41.870028132,
+      "lng": -87.708823855,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10224975",
+      "type": "THEFT",
+      "lat": 42.000437741,
+      "lng": -87.681444081,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10224977",
+      "type": "THEFT",
+      "lat": 41.939918899,
+      "lng": -87.653369734,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10224978",
+      "type": "BATTERY",
+      "lat": 41.747078609,
+      "lng": -87.704758294,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 8
+    },
+    {
+      "id": "CR-10224980",
+      "type": "BATTERY",
+      "lat": 41.911367051,
+      "lng": -87.626401638,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10224982",
+      "type": "NARCOTICS",
+      "lat": 41.790213318,
+      "lng": -87.683028384,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 8
+    },
+    {
+      "id": "CR-10224983",
+      "type": "BURGLARY",
+      "lat": 41.936594317,
+      "lng": -87.72711383,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10224984",
+      "type": "BATTERY",
+      "lat": 41.926763837,
+      "lng": -87.767302342,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10224985",
+      "type": "THEFT",
+      "lat": 41.997544797,
+      "lng": -87.700467444,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 24
+    },
+    {
+      "id": "CR-10224986",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.9269381,
+      "lng": -87.719499245,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10224987",
+      "type": "OTHER OFFENSE",
+      "lat": 41.950554101,
+      "lng": -87.64714331,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10224988",
+      "type": "BATTERY",
+      "lat": 41.824672425,
+      "lng": -87.644746823,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 9
+    },
+    {
+      "id": "CR-10026545",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.940570914,
+      "lng": -87.753183696,
+      "date": "2015-04-08",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10224989",
+      "type": "NARCOTICS",
+      "lat": 41.898629212,
+      "lng": -87.751238366,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10224991",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.993014622,
+      "lng": -87.70605594,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10224994",
+      "type": "THEFT",
+      "lat": 41.858449995,
+      "lng": -87.710316759,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10224996",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.83799281,
+      "lng": -87.714617928,
+      "date": "2015-08-29",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10224997",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.687031513,
+      "lng": -87.631971235,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 5
+    },
+    {
+      "id": "CR-10224998",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.94173367,
+      "lng": -87.688232138,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10224999",
+      "type": "BATTERY",
+      "lat": 41.864422417,
+      "lng": -87.710486394,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10225000",
+      "type": "NARCOTICS",
+      "lat": 41.751325905,
+      "lng": -87.552890447,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10225001",
+      "type": "BATTERY",
+      "lat": 41.854630303,
+      "lng": -87.70533607,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10225002",
+      "type": "NARCOTICS",
+      "lat": 41.870601801,
+      "lng": -87.717997147,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225003",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.947485405,
+      "lng": -87.656741053,
+      "date": "2015-08-29",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10225004",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.751208679,
+      "lng": -87.609607175,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225005",
+      "type": "BATTERY",
+      "lat": 41.686867374,
+      "lng": -87.620901922,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225007",
+      "type": "BATTERY",
+      "lat": 41.96910508,
+      "lng": -87.653625718,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10225008",
+      "type": "BURGLARY",
+      "lat": 41.671453418,
+      "lng": -87.638091856,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225010",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.73112981,
+      "lng": -87.664141664,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 22
+    },
+    {
+      "id": "CR-10225011",
+      "type": "NARCOTICS",
+      "lat": 41.793642732,
+      "lng": -87.666113821,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10225012",
+      "type": "BATTERY",
+      "lat": 41.768237554,
+      "lng": -87.637223806,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225013",
+      "type": "BATTERY",
+      "lat": 41.877532516,
+      "lng": -87.672336114,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 12
+    },
+    {
+      "id": "CR-10225014",
+      "type": "OTHER OFFENSE",
+      "lat": 41.983010955,
+      "lng": -87.713436586,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 17
+    },
+    {
+      "id": "CR-10225015",
+      "type": "BATTERY",
+      "lat": 41.751291477,
+      "lng": -87.604904392,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 6
+    },
+    {
+      "id": "CR-10225017",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.756011153,
+      "lng": -87.587288339,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225019",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.736463265,
+      "lng": -87.554176909,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225020",
+      "type": "THEFT",
+      "lat": 41.930946496,
+      "lng": -87.788962647,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-11859805",
+      "type": "THEFT",
+      "lat": 41.895732399,
+      "lng": -87.687784384,
+      "date": "2019-10-13",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225021",
+      "type": "BATTERY",
+      "lat": 41.751375148,
+      "lng": -87.55895132,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225024",
+      "type": "NARCOTICS",
+      "lat": 41.878181557,
+      "lng": -87.754985793,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10225025",
+      "type": "ASSAULT",
+      "lat": 41.902991231,
+      "lng": -87.689797763,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10225028",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.992432304,
+      "lng": -87.707967144,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10225029",
+      "type": "THEFT",
+      "lat": 41.843795034,
+      "lng": -87.724533469,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10225030",
+      "type": "BATTERY",
+      "lat": 41.932675995,
+      "lng": -87.684512332,
+      "date": "2015-09-01",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10225031",
+      "type": "THEFT",
+      "lat": 41.931451005,
+      "lng": -87.686755494,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10225032",
+      "type": "BURGLARY",
+      "lat": 41.74027302,
+      "lng": -87.562411727,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225034",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.758263117,
+      "lng": -87.572473466,
+      "date": "2015-08-18",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225035",
+      "type": "BATTERY",
+      "lat": 41.733087064,
+      "lng": -87.565897571,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225037",
+      "type": "BATTERY",
+      "lat": 41.75291585,
+      "lng": -87.559936962,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225038",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.781576603,
+      "lng": -87.615660095,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 3
+    },
+    {
+      "id": "CR-10225039",
+      "type": "NARCOTICS",
+      "lat": 41.96602645,
+      "lng": -87.657872309,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10225040",
+      "type": "THEFT",
+      "lat": 41.736543539,
+      "lng": -87.562416028,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225043",
+      "type": "BATTERY",
+      "lat": 41.814489708,
+      "lng": -87.604478527,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 2
+    },
+    {
+      "id": "CR-10225044",
+      "type": "NARCOTICS",
+      "lat": 41.739029939,
+      "lng": -87.624209555,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 6
+    },
+    {
+      "id": "CR-10225045",
+      "type": "THEFT",
+      "lat": 41.875367424,
+      "lng": -87.627620993,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10225046",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.973400963,
+      "lng": -87.672158497,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 20
+    },
+    {
+      "id": "CR-10225047",
+      "type": "THEFT",
+      "lat": 41.998434162,
+      "lng": -87.683807982,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10225048",
+      "type": "ASSAULT",
+      "lat": 42.001719931,
+      "lng": -87.671011848,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10225049",
+      "type": "NARCOTICS",
+      "lat": 41.903751214,
+      "lng": -87.731256024,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10225050",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.875132759,
+      "lng": -87.670209164,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 12
+    },
+    {
+      "id": "CR-10225051",
+      "type": "PUBLIC PEACE VIOLATION",
+      "lat": 41.702684634,
+      "lng": -87.525329402,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10225054",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.734773117,
+      "lng": -87.545774287,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225055",
+      "type": "NARCOTICS",
+      "lat": 41.84574044,
+      "lng": -87.711166767,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10225056",
+      "type": "BATTERY",
+      "lat": 41.902517312,
+      "lng": -87.687014429,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 12
+    },
+    {
+      "id": "CR-10225058",
+      "type": "BATTERY",
+      "lat": 41.824177767,
+      "lng": -87.704441353,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10225059",
+      "type": "BATTERY",
+      "lat": 41.904454233,
+      "lng": -87.727697153,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10225060",
+      "type": "THEFT",
+      "lat": 41.886323884,
+      "lng": -87.660787465,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-12571973",
+      "type": "BATTERY",
+      "lat": 41.81665685,
+      "lng": -87.695688608,
+      "date": "2021-12-19",
+      "arrest": true,
+      "district": 9
+    },
+    {
+      "id": "CR-10225061",
+      "type": "NARCOTICS",
+      "lat": 41.750940757,
+      "lng": -87.625185222,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 6
+    },
+    {
+      "id": "CR-10225063",
+      "type": "OTHER OFFENSE",
+      "lat": 41.943844128,
+      "lng": -87.649380278,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10225066",
+      "type": "BURGLARY",
+      "lat": 41.749500119,
+      "lng": -87.601124421,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225067",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.836345017,
+      "lng": -87.633146918,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 9
+    },
+    {
+      "id": "CR-10225068",
+      "type": "PUBLIC PEACE VIOLATION",
+      "lat": 41.871646618,
+      "lng": -87.724034269,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225069",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.816738574,
+      "lng": -87.611203,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225071",
+      "type": "BATTERY",
+      "lat": 41.946367674,
+      "lng": -87.727859352,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 17
+    },
+    {
+      "id": "CR-10225072",
+      "type": "BATTERY",
+      "lat": 41.965455945,
+      "lng": -87.726729983,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 17
+    },
+    {
+      "id": "CR-10225073",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.781973362,
+      "lng": -87.683716619,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 8
+    },
+    {
+      "id": "CR-10225074",
+      "type": "NARCOTICS",
+      "lat": 41.763619171,
+      "lng": -87.629162115,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10225080",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.909740682,
+      "lng": -87.676471266,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10225081",
+      "type": "BATTERY",
+      "lat": 41.910494911,
+      "lng": -87.676875003,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10225082",
+      "type": "ROBBERY",
+      "lat": 41.797279273,
+      "lng": -87.641585491,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10225084",
+      "type": "BURGLARY",
+      "lat": 41.906697405,
+      "lng": -87.671704723,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10225085",
+      "type": "BURGLARY",
+      "lat": 41.843047909,
+      "lng": -87.645184739,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10225087",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.912319611,
+      "lng": -87.750037527,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10225088",
+      "type": "BATTERY",
+      "lat": 41.946159169,
+      "lng": -87.655678044,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10225089",
+      "type": "THEFT",
+      "lat": 41.786569368,
+      "lng": -87.644956704,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225093",
+      "type": "ASSAULT",
+      "lat": 41.895560734,
+      "lng": -87.705827783,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225094",
+      "type": "BATTERY",
+      "lat": 41.757481308,
+      "lng": -87.557745407,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225095",
+      "type": "THEFT",
+      "lat": 41.903077492,
+      "lng": -87.683673325,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225096",
+      "type": "PROSTITUTION",
+      "lat": 41.808334931,
+      "lng": -87.691028429,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 9
+    },
+    {
+      "id": "CR-10225098",
+      "type": "ASSAULT",
+      "lat": 41.964633904,
+      "lng": -87.648400513,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10225099",
+      "type": "BATTERY",
+      "lat": 41.845762946,
+      "lng": -87.714825668,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10225100",
+      "type": "ASSAULT",
+      "lat": 41.758309871,
+      "lng": -87.558527098,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225101",
+      "type": "BATTERY",
+      "lat": 41.793378076,
+      "lng": -87.646354376,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10225102",
+      "type": "OTHER OFFENSE",
+      "lat": 41.808614751,
+      "lng": -87.664091468,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10225103",
+      "type": "THEFT",
+      "lat": 41.885653609,
+      "lng": -87.706255257,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225104",
+      "type": "BATTERY",
+      "lat": 41.892603612,
+      "lng": -87.722329283,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225105",
+      "type": "ROBBERY",
+      "lat": 41.931055577,
+      "lng": -87.680405389,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10225106",
+      "type": "OTHER OFFENSE",
+      "lat": 41.808420097,
+      "lng": -87.685668637,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10225107",
+      "type": "ROBBERY",
+      "lat": 41.880850198,
+      "lng": -87.716205977,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225109",
+      "type": "NARCOTICS",
+      "lat": 41.894407047,
+      "lng": -87.748239203,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10225110",
+      "type": "BATTERY",
+      "lat": 41.934355487,
+      "lng": -87.724606491,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10225111",
+      "type": "BATTERY",
+      "lat": 41.930894487,
+      "lng": -87.794810033,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10225112",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.96430476,
+      "lng": -87.662368986,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10225113",
+      "type": "BATTERY",
+      "lat": 41.90480682,
+      "lng": -87.691072605,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10225115",
+      "type": "BATTERY",
+      "lat": 41.886682918,
+      "lng": -87.655109738,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225116",
+      "type": "PUBLIC PEACE VIOLATION",
+      "lat": 41.895588086,
+      "lng": -87.754395364,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10225117",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.878431127,
+      "lng": -87.758233264,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10225119",
+      "type": "BATTERY",
+      "lat": 41.767828409,
+      "lng": -87.666326388,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225120",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.95638151,
+      "lng": -87.712988838,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 17
+    },
+    {
+      "id": "CR-10225121",
+      "type": "GAMBLING",
+      "lat": 41.78631519,
+      "lng": -87.63332122,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10225122",
+      "type": "BATTERY",
+      "lat": 41.768431709,
+      "lng": -87.674333391,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225123",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.767525954,
+      "lng": -87.67430967,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225124",
+      "type": "BATTERY",
+      "lat": 41.791939812,
+      "lng": -87.646311061,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225125",
+      "type": "BATTERY",
+      "lat": 41.759774484,
+      "lng": -87.64228165,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225126",
+      "type": "BATTERY",
+      "lat": 41.967894103,
+      "lng": -87.758447877,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10225127",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.786397451,
+      "lng": -87.694041499,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 8
+    },
+    {
+      "id": "CR-10225128",
+      "type": "NARCOTICS",
+      "lat": 41.751383531,
+      "lng": -87.552889749,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10225129",
+      "type": "OTHER OFFENSE",
+      "lat": 41.910488657,
+      "lng": -87.721457048,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10225131",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.876005082,
+      "lng": -87.71084027,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225132",
+      "type": "NARCOTICS",
+      "lat": 41.779430846,
+      "lng": -87.665777206,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10225133",
+      "type": "NARCOTICS",
+      "lat": 41.877401649,
+      "lng": -87.699256437,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225134",
+      "type": "NARCOTICS",
+      "lat": 41.767336547,
+      "lng": -87.57633249,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 3
+    },
+    {
+      "id": "CR-10225135",
+      "type": "ASSAULT",
+      "lat": 41.968529752,
+      "lng": -87.698860976,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 20
+    },
+    {
+      "id": "CR-10225137",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.877162736,
+      "lng": -87.757576345,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 15
+    },
+    {
+      "id": "CR-10225138",
+      "type": "ASSAULT",
+      "lat": 41.973592405,
+      "lng": -87.663054812,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 20
+    },
+    {
+      "id": "CR-10225139",
+      "type": "INTERFERENCE WITH PUBLIC OFFICER",
+      "lat": 41.942100343,
+      "lng": -87.777212282,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 16
+    },
+    {
+      "id": "CR-10225140",
+      "type": "NARCOTICS",
+      "lat": 41.875232942,
+      "lng": -87.6276188,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 1
+    },
+    {
+      "id": "CR-10225141",
+      "type": "THEFT",
+      "lat": 41.983373861,
+      "lng": -87.695524775,
+      "date": "2015-09-01",
+      "arrest": false,
+      "district": 20
+    },
+    {
+      "id": "CR-10225142",
+      "type": "OFFENSE INVOLVING CHILDREN",
+      "lat": 41.779982915,
+      "lng": -87.698292215,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10225143",
+      "type": "THEFT",
+      "lat": 41.803807415,
+      "lng": -87.58208345,
+      "date": "2015-09-01",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225144",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.793802035,
+      "lng": -87.65535639,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225145",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.766247597,
+      "lng": -87.575997062,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 3
+    },
+    {
+      "id": "CR-10225146",
+      "type": "OTHER OFFENSE",
+      "lat": 41.851444728,
+      "lng": -87.73157428,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10225147",
+      "type": "BATTERY",
+      "lat": 41.897717895,
+      "lng": -87.749031759,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10225148",
+      "type": "BATTERY",
+      "lat": 41.903931334,
+      "lng": -87.629268148,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 18
+    },
+    {
+      "id": "CR-10225149",
+      "type": "THEFT",
+      "lat": 41.75838795,
+      "lng": -87.616200733,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10225150",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.928383224,
+      "lng": -87.767361524,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10225151",
+      "type": "THEFT",
+      "lat": 41.937218558,
+      "lng": -87.731011162,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10225152",
+      "type": "BURGLARY",
+      "lat": 41.749502746,
+      "lng": -87.601106068,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225154",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.894787298,
+      "lng": -87.690526564,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225155",
+      "type": "PUBLIC PEACE VIOLATION",
+      "lat": 41.954584472,
+      "lng": -87.648375776,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10225156",
+      "type": "BURGLARY",
+      "lat": 41.792342253,
+      "lng": -87.624025622,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225157",
+      "type": "THEFT",
+      "lat": 41.87911226,
+      "lng": -87.626110978,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10225158",
+      "type": "THEFT",
+      "lat": 41.735675715,
+      "lng": -87.645313581,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 22
+    },
+    {
+      "id": "CR-10225159",
+      "type": "THEFT",
+      "lat": 41.695908161,
+      "lng": -87.595822806,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225160",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.996281323,
+      "lng": -87.673459439,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10225161",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.792470297,
+      "lng": -87.615919964,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225162",
+      "type": "NARCOTICS",
+      "lat": 41.898009641,
+      "lng": -87.721274991,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225163",
+      "type": "OTHER OFFENSE",
+      "lat": 42.022526099,
+      "lng": -87.672400555,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10225164",
+      "type": "ROBBERY",
+      "lat": 41.797182256,
+      "lng": -87.598128455,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225165",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.790334078,
+      "lng": -87.622353626,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225166",
+      "type": "ASSAULT",
+      "lat": 41.993012947,
+      "lng": -87.698264731,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10225167",
+      "type": "BATTERY",
+      "lat": 41.885496686,
+      "lng": -87.657314707,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225168",
+      "type": "BATTERY",
+      "lat": 41.860119379,
+      "lng": -87.723776616,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10225169",
+      "type": "BATTERY",
+      "lat": 41.892501035,
+      "lng": -87.721103543,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225170",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.844205755,
+      "lng": -87.727994095,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10225171",
+      "type": "BATTERY",
+      "lat": 41.721601671,
+      "lng": -87.632851859,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225172",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.854825273,
+      "lng": -87.712425854,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10225174",
+      "type": "ASSAULT",
+      "lat": 41.777912407,
+      "lng": -87.615568965,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10225175",
+      "type": "BATTERY",
+      "lat": 41.886866154,
+      "lng": -87.736563412,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225176",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.880155799,
+      "lng": -87.697077361,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225177",
+      "type": "OTHER OFFENSE",
+      "lat": 41.765440714,
+      "lng": -87.58058114,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10225178",
+      "type": "ASSAULT",
+      "lat": 41.767093374,
+      "lng": -87.614087692,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10225179",
+      "type": "OTHER OFFENSE",
+      "lat": 41.876919736,
+      "lng": -87.69007408,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225180",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.878513874,
+      "lng": -87.751777135,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10225181",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.761126784,
+      "lng": -87.643088168,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225182",
+      "type": "INTERFERENCE WITH PUBLIC OFFICER",
+      "lat": 41.783340761,
+      "lng": -87.605993706,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 3
+    },
+    {
+      "id": "CR-10225183",
+      "type": "BATTERY",
+      "lat": 41.921087706,
+      "lng": -87.742575717,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10225184",
+      "type": "BATTERY",
+      "lat": 41.943122315,
+      "lng": -87.649365938,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10225185",
+      "type": "BATTERY",
+      "lat": 41.931415894,
+      "lng": -87.755302635,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10225186",
+      "type": "NARCOTICS",
+      "lat": 41.843322966,
+      "lng": -87.724523264,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10225187",
+      "type": "THEFT",
+      "lat": 41.908245663,
+      "lng": -87.678014854,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10225188",
+      "type": "ASSAULT",
+      "lat": 41.750142073,
+      "lng": -87.613686938,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 6
+    },
+    {
+      "id": "CR-10225190",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.760880906,
+      "lng": -87.6636787,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225191",
+      "type": "NARCOTICS",
+      "lat": 41.997765346,
+      "lng": -87.687835766,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 24
+    },
+    {
+      "id": "CR-10225192",
+      "type": "NARCOTICS",
+      "lat": 41.75941289,
+      "lng": -87.667014635,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 7
+    },
+    {
+      "id": "CR-10225193",
+      "type": "OTHER OFFENSE",
+      "lat": 41.904419071,
+      "lng": -87.729879538,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10225194",
+      "type": "NARCOTICS",
+      "lat": 41.852269532,
+      "lng": -87.669586473,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 12
+    },
+    {
+      "id": "CR-10225195",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.926926981,
+      "lng": -87.752168148,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10225196",
+      "type": "NARCOTICS",
+      "lat": 41.86230277,
+      "lng": -87.718946769,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 10
+    },
+    {
+      "id": "CR-10225197",
+      "type": "NARCOTICS",
+      "lat": 41.751218162,
+      "lng": -87.637349083,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 6
+    },
+    {
+      "id": "CR-10225199",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.7882057,
+      "lng": -87.776776924,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 8
+    },
+    {
+      "id": "CR-10225200",
+      "type": "ASSAULT",
+      "lat": 41.740860249,
+      "lng": -87.64861826,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225201",
+      "type": "NARCOTICS",
+      "lat": 41.74956642,
+      "lng": -87.658566863,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 6
+    },
+    {
+      "id": "CR-10225202",
+      "type": "BATTERY",
+      "lat": 41.964321551,
+      "lng": -87.767367136,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10225203",
+      "type": "BATTERY",
+      "lat": 41.767785899,
+      "lng": -87.683328245,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10225204",
+      "type": "OTHER OFFENSE",
+      "lat": 41.742272753,
+      "lng": -87.641153886,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225205",
+      "type": "BATTERY",
+      "lat": 41.788224909,
+      "lng": -87.776776758,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 8
+    },
+    {
+      "id": "CR-10225206",
+      "type": "BATTERY",
+      "lat": 41.80852139,
+      "lng": -87.62606631,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225207",
+      "type": "BATTERY",
+      "lat": 41.750142073,
+      "lng": -87.613686938,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225209",
+      "type": "THEFT",
+      "lat": 41.93135843,
+      "lng": -87.759713197,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10225210",
+      "type": "BATTERY",
+      "lat": 41.762007537,
+      "lng": -87.564819986,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10225212",
+      "type": "BATTERY",
+      "lat": 41.906782446,
+      "lng": -87.75342726,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10041476",
+      "type": "THEFT",
+      "lat": 41.949526604,
+      "lng": -87.656656975,
+      "date": "2015-04-18",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10225213",
+      "type": "ASSAULT",
+      "lat": 41.766875117,
+      "lng": -87.611667154,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10225216",
+      "type": "WEAPONS VIOLATION",
+      "lat": 41.746814094,
+      "lng": -87.605112579,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 6
+    },
+    {
+      "id": "CR-10225217",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.88586711,
+      "lng": -87.633935855,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10225218",
+      "type": "ROBBERY",
+      "lat": 41.65685141,
+      "lng": -87.607565057,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225219",
+      "type": "BURGLARY",
+      "lat": 41.653732143,
+      "lng": -87.596516367,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225220",
+      "type": "ASSAULT",
+      "lat": 41.682043933,
+      "lng": -87.644490437,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225221",
+      "type": "BATTERY",
+      "lat": 41.663301707,
+      "lng": -87.632503294,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225223",
+      "type": "BATTERY",
+      "lat": 41.70005444,
+      "lng": -87.610444692,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225224",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.669825751,
+      "lng": -87.634427297,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225225",
+      "type": "BATTERY",
+      "lat": 41.684011736,
+      "lng": -87.640856125,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225226",
+      "type": "BURGLARY",
+      "lat": 41.713879007,
+      "lng": -87.629683319,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225227",
+      "type": "NARCOTICS",
+      "lat": 41.88096768,
+      "lng": -87.737940272,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225228",
+      "type": "BATTERY",
+      "lat": 41.799375178,
+      "lng": -87.631961501,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 9
+    },
+    {
+      "id": "CR-10225229",
+      "type": "SEX OFFENSE",
+      "lat": 41.77316612,
+      "lng": -87.670127705,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 7
+    },
+    {
+      "id": "CR-10225230",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.87707413,
+      "lng": -87.726508999,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225231",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.881857678,
+      "lng": -87.707647413,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225233",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.978564807,
+      "lng": -87.697779413,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 20
+    },
+    {
+      "id": "CR-10225234",
+      "type": "BATTERY",
+      "lat": 41.885759278,
+      "lng": -87.713588042,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225236",
+      "type": "THEFT",
+      "lat": 41.907733818,
+      "lng": -87.632690638,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10225237",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.703823312,
+      "lng": -87.565729315,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10225239",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.895779509,
+      "lng": -87.753174201,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10225240",
+      "type": "BATTERY",
+      "lat": 41.775070447,
+      "lng": -87.718951468,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10225241",
+      "type": "THEFT",
+      "lat": 41.866574238,
+      "lng": -87.639227275,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10225242",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.895743835,
+      "lng": -87.753174524,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-12012127",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.877110187,
+      "lng": -87.723989719,
+      "date": "2020-03-18",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10041923",
+      "type": "THEFT",
+      "lat": 41.753567171,
+      "lng": -87.564572519,
+      "date": "2015-04-21",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225243",
+      "type": "NARCOTICS",
+      "lat": 41.94171715,
+      "lng": -87.655824323,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10225245",
+      "type": "ROBBERY",
+      "lat": 41.958481128,
+      "lng": -87.650198077,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10225246",
+      "type": "BATTERY",
+      "lat": 41.985582196,
+      "lng": -87.717501746,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 17
+    },
+    {
+      "id": "CR-10225247",
+      "type": "BATTERY",
+      "lat": 41.752736126,
+      "lng": -87.56382382,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225248",
+      "type": "BATTERY",
+      "lat": 41.857740504,
+      "lng": -87.669874959,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225249",
+      "type": "ASSAULT",
+      "lat": 41.940913981,
+      "lng": -87.749402086,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10225250",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.889863125,
+      "lng": -87.668657555,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225251",
+      "type": "BATTERY",
+      "lat": 41.947268999,
+      "lng": -87.81441579,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10225252",
+      "type": "CRIM SEXUAL ASSAULT",
+      "lat": 41.954890553,
+      "lng": -87.775957747,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 16
+    },
+    {
+      "id": "CR-10225253",
+      "type": "PUBLIC PEACE VIOLATION",
+      "lat": 41.787291181,
+      "lng": -87.692400898,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 8
+    },
+    {
+      "id": "CR-10225254",
+      "type": "THEFT",
+      "lat": 41.888438092,
+      "lng": -87.624476665,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10225256",
+      "type": "ASSAULT",
+      "lat": 41.844112707,
+      "lng": -87.628445336,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 1
+    },
+    {
+      "id": "CR-10225257",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.891743966,
+      "lng": -87.640056666,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10225258",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.771135238,
+      "lng": -87.682103024,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10225260",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.816786571,
+      "lng": -87.608366737,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225264",
+      "type": "THEFT",
+      "lat": 41.79087259,
+      "lng": -87.763783673,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10225265",
+      "type": "BATTERY",
+      "lat": 41.802173267,
+      "lng": -87.610974131,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225266",
+      "type": "BATTERY",
+      "lat": 41.855003423,
+      "lng": -87.724170238,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10225267",
+      "type": "THEFT",
+      "lat": 41.852191819,
+      "lng": -87.674678252,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10225268",
+      "type": "THEFT",
+      "lat": 42.018606063,
+      "lng": -87.675988718,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 24
+    },
+    {
+      "id": "CR-10225269",
+      "type": "BATTERY",
+      "lat": 41.903933222,
+      "lng": -87.629128536,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 18
+    },
+    {
+      "id": "CR-10225270",
+      "type": "OTHER OFFENSE",
+      "lat": 41.923005158,
+      "lng": -87.645351431,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10225271",
+      "type": "THEFT",
+      "lat": 41.909568995,
+      "lng": -87.676201167,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-11863808",
+      "type": "THEFT",
+      "lat": 41.88200224,
+      "lng": -87.662286977,
+      "date": "2019-10-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225272",
+      "type": "CRIMINAL TRESPASS",
+      "lat": 41.897654247,
+      "lng": -87.619324251,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10225273",
+      "type": "ROBBERY",
+      "lat": 41.941184346,
+      "lng": -87.64103203,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10225274",
+      "type": "INTERFERENCE WITH PUBLIC OFFICER",
+      "lat": 41.703740989,
+      "lng": -87.565730294,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10225276",
+      "type": "BATTERY",
+      "lat": 41.799046471,
+      "lng": -87.58550578,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225277",
+      "type": "BATTERY",
+      "lat": 41.874409806,
+      "lng": -87.764647184,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10225278",
+      "type": "THEFT",
+      "lat": 41.876932377,
+      "lng": -87.738227419,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225279",
+      "type": "ROBBERY",
+      "lat": 41.755089543,
+      "lng": -87.672054688,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225280",
+      "type": "ASSAULT",
+      "lat": 41.684789786,
+      "lng": -87.6633151,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 22
+    },
+    {
+      "id": "CR-10225281",
+      "type": "ASSAULT",
+      "lat": 41.742959421,
+      "lng": -87.62682291,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225282",
+      "type": "BATTERY",
+      "lat": 41.964618881,
+      "lng": -87.656975296,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10225283",
+      "type": "CRIM SEXUAL ASSAULT",
+      "lat": 41.79616037,
+      "lng": -87.715885925,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 8
+    },
+    {
+      "id": "CR-10225284",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.997704063,
+      "lng": -87.691588808,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 24
+    },
+    {
+      "id": "CR-10225285",
+      "type": "ASSAULT",
+      "lat": 42.006511933,
+      "lng": -87.676378151,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 24
+    },
+    {
+      "id": "CR-10225286",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.67891566,
+      "lng": -87.628691588,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225287",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.754167102,
+      "lng": -87.611362411,
+      "date": "2015-09-01",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225288",
+      "type": "BATTERY",
+      "lat": 41.740418815,
+      "lng": -87.669259274,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225289",
+      "type": "BATTERY",
+      "lat": 41.738918351,
+      "lng": -87.653420453,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225290",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.757651399,
+      "lng": -87.609029009,
+      "date": "2015-09-02",
+      "arrest": false,
+      "district": 6
+    },
+    {
+      "id": "CR-10225291",
+      "type": "BURGLARY",
+      "lat": 41.716545037,
+      "lng": -87.570947551,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225292",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.85796756,
+      "lng": -87.655651842,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225293",
+      "type": "BATTERY",
+      "lat": 41.877565688,
+      "lng": -87.684893829,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225294",
+      "type": "ASSAULT",
+      "lat": 41.885393253,
+      "lng": -87.663547848,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 12
+    },
+    {
+      "id": "CR-10225295",
+      "type": "ROBBERY",
+      "lat": 41.882360009,
+      "lng": -87.668122063,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225296",
+      "type": "NARCOTICS",
+      "lat": 41.913242861,
+      "lng": -87.726438397,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10225298",
+      "type": "BATTERY",
+      "lat": 41.939918899,
+      "lng": -87.653369734,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10045766",
+      "type": "NARCOTICS",
+      "lat": 41.925354094,
+      "lng": -87.737623298,
+      "date": "2015-04-24",
+      "arrest": true,
+      "district": 25
+    },
+    {
+      "id": "CR-10225300",
+      "type": "BATTERY",
+      "lat": 41.907153315,
+      "lng": -87.639680572,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 18
+    },
+    {
+      "id": "CR-10225301",
+      "type": "ROBBERY",
+      "lat": 41.855465665,
+      "lng": -87.625762224,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10225302",
+      "type": "BATTERY",
+      "lat": 41.871692279,
+      "lng": -87.696041461,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225303",
+      "type": "ROBBERY",
+      "lat": 41.903186071,
+      "lng": -87.641196552,
+      "date": "2015-09-05",
+      "arrest": true,
+      "district": 18
+    },
+    {
+      "id": "CR-10225304",
+      "type": "BATTERY",
+      "lat": 41.894506426,
+      "lng": -87.707744348,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225305",
+      "type": "OFFENSE INVOLVING CHILDREN",
+      "lat": 41.894171604,
+      "lng": -87.621500665,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10225306",
+      "type": "ASSAULT",
+      "lat": 41.852408005,
+      "lng": -87.661777875,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 12
+    },
+    {
+      "id": "CR-10225307",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.890505423,
+      "lng": -87.744080595,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225308",
+      "type": "LIQUOR LAW VIOLATION",
+      "lat": 41.947099832,
+      "lng": -87.662115668,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 19
+    },
+    {
+      "id": "CR-10225309",
+      "type": "BATTERY",
+      "lat": 41.898009641,
+      "lng": -87.721274991,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225310",
+      "type": "ASSAULT",
+      "lat": 41.898333269,
+      "lng": -87.62750777,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10225312",
+      "type": "ROBBERY",
+      "lat": 41.969959151,
+      "lng": -87.688947636,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 20
+    },
+    {
+      "id": "CR-10225313",
+      "type": "THEFT",
+      "lat": 41.893375089,
+      "lng": -87.62183272,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 18
+    },
+    {
+      "id": "CR-10225314",
+      "type": "BATTERY",
+      "lat": 41.876932377,
+      "lng": -87.738227419,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 11
+    },
+    {
+      "id": "CR-10225315",
+      "type": "BATTERY",
+      "lat": 41.972358697,
+      "lng": -87.72693294,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 17
+    },
+    {
+      "id": "CR-10225316",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.876744768,
+      "lng": -87.641559043,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 1
+    },
+    {
+      "id": "CR-10225320",
+      "type": "ASSAULT",
+      "lat": 41.89415257,
+      "lng": -87.673450286,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 12
+    },
+    {
+      "id": "CR-10225321",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.716545037,
+      "lng": -87.570947551,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 4
+    },
+    {
+      "id": "CR-10225322",
+      "type": "THEFT",
+      "lat": 41.80156088,
+      "lng": -87.621015557,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225323",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.781576603,
+      "lng": -87.615660095,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 3
+    },
+    {
+      "id": "CR-10225324",
+      "type": "DECEPTIVE PRACTICE",
+      "lat": 41.768349782,
+      "lng": -87.615327329,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-11859727",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.946987144,
+      "lng": -87.669163602,
+      "date": "2019-10-13",
+      "arrest": false,
+      "district": 19
+    },
+    {
+      "id": "CR-10225325",
+      "type": "BATTERY",
+      "lat": 41.759367459,
+      "lng": -87.607862507,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10225326",
+      "type": "THEFT",
+      "lat": 41.681765889,
+      "lng": -87.684908533,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 22
+    },
+    {
+      "id": "CR-10225327",
+      "type": "OTHER OFFENSE",
+      "lat": 41.761484638,
+      "lng": -87.55806373,
+      "date": "2015-04-15",
+      "arrest": false,
+      "district": 3
+    },
+    {
+      "id": "CR-10225328",
+      "type": "BATTERY",
+      "lat": 41.882960832,
+      "lng": -87.756382222,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 15
+    },
+    {
+      "id": "CR-10225329",
+      "type": "BATTERY",
+      "lat": 41.742370198,
+      "lng": -87.552735082,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10225330",
+      "type": "THEFT",
+      "lat": 41.914659653,
+      "lng": -87.680550487,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 14
+    },
+    {
+      "id": "CR-10225331",
+      "type": "CRIMINAL DAMAGE",
+      "lat": 41.924265486,
+      "lng": -87.744170588,
+      "date": "2015-09-04",
+      "arrest": false,
+      "district": 25
+    },
+    {
+      "id": "CR-10225338",
+      "type": "BATTERY",
+      "lat": 41.820261979,
+      "lng": -87.627499981,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 2
+    },
+    {
+      "id": "CR-10225339",
+      "type": "THEFT",
+      "lat": 41.872971968,
+      "lng": -87.686867896,
+      "date": "2015-09-06",
+      "arrest": false,
+      "district": 11
+    },
+    {
+      "id": "CR-10225340",
+      "type": "BATTERY",
+      "lat": 41.864033702,
+      "lng": -87.717792133,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 10
+    },
+    {
+      "id": "CR-10225342",
+      "type": "CRIM SEXUAL ASSAULT",
+      "lat": 41.810705897,
+      "lng": -87.751800303,
+      "date": "2015-09-03",
+      "arrest": false,
+      "district": 8
+    },
+    {
+      "id": "CR-10225343",
+      "type": "NARCOTICS",
+      "lat": 41.713389806,
+      "lng": -87.550243676,
+      "date": "2015-09-06",
+      "arrest": true,
+      "district": 4
+    },
+    {
+      "id": "CR-10225345",
+      "type": "MOTOR VEHICLE THEFT",
+      "lat": 41.671568737,
+      "lng": -87.630880001,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 5
+    },
+    {
+      "id": "CR-10225346",
+      "type": "THEFT",
+      "lat": 41.754666656,
+      "lng": -87.578497099,
+      "date": "2015-09-05",
+      "arrest": false,
+      "district": 4
+    }
+  ]
+}
